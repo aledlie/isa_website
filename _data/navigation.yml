@@ -1,0 +1,20 @@
+# Site navigation links
+main:
+  - title: "About"
+    url: /about/
+
+  - title: "Blog"
+    url: /posts
+
+  - title: "Homage"
+    url: /homage/
+
+  - title: "Sumedh's Site"
+    url: https://www.sumedhmjoshi.com
+
+  - title: "'What Do You Do?'"
+    url: /work/
+
+  - title: "Case Studies"
+    url: /reports/
+
