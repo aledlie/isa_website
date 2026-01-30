@@ -134,7 +134,7 @@ paginate_path: /page:num/
 # Author
 author:
   name: Isabel Budenz
-  avatar: # /assets/images/profile.jpg - Add your photo here
+  avatar: /assets/images/avatar-placeholder.svg
   bio: AI Governance | International Arbitration | EU Law
   location: Stockholm | Austin, TX
   email: isa@integritystudio.ai
