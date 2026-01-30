@@ -4,10 +4,7 @@ main:
     url: /about/
 
   - title: "Blog"
-    url: /posts
-
-  - title: "Vita"
-    url: /homage/
+    url: /posts/
 
   - title: "Work"
     url: /work/
