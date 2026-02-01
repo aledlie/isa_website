@@ -10,15 +10,15 @@ schema_type: person
 
 AI regulation is being written today, and I help organizations navigate it.
 
-As an **AI Governance & Compliance Research Intern** at IntegrityStudio.ai, I develop cross-border compliance frameworks for enterprise LLM deployments. My foundation in **International and European Law** (University of Groningen) combined with specialized training in **International Commercial Arbitration** (Stockholm University) positions me at the intersection of AI governance, dispute resolution, and regulatory compliance.
+As an **AI Governance & Compliance Research Intern** at IntegrityStudio.ai, I develop cross-border compliance frameworks for enterprise LLM deployments. My background in **International and European Law** (Groningen) and **International Commercial Arbitration** (Stockholm) positions me at the intersection of AI governance and dispute resolution.
 
-**What I bring:** Quadrilingual legal analysis (German, Spanish, English, French) with direct access to primary regulatory sources across EU member states.
+**What I bring:** Quadrilingual legal analysis with direct access to primary regulatory sources across EU member states.
 
 ## Focus Areas
 
 ### AI Governance & The EU AI Act
 
-The legal frameworks governing AI are being written now, and I want to help shape them. My coursework on the EU AI Act revealed how profoundly AI will transform legal practice, from contract analysis to dispute resolution. This is not a distant future; the AAA-ICDR launched its first AI arbitrator in November 2025, and the ICC has established a Task Force examining AI in arbitration proceedings.
+Legislators are writing the legal frameworks governing AI now, and I want to help shape them. My coursework on the EU AI Act revealed how profoundly AI will transform legal practice, from contract analysis to dispute resolution. This is not a distant future; the AAA-ICDR launched its first AI arbitrator in November 2025, and the ICC has established a Task Force examining AI in arbitration proceedings.
 
 ### AI in Dispute Resolution
 
@@ -64,10 +64,10 @@ I'm currently completing a capstone internship at IntegrityStudio.ai, developing
 - **Product-Compliance Integration**: Translating legal requirements into product features
 - **Arbitration Readiness**: Evidence preservation schemas and dispute-ready audit trails
 
-### Deliverables
+### Deliverables (In Progress)
 
-- Regulatory Mapping Report (EU AI Act, GDPR, national implementations across 6+ jurisdictions)
-- Multi-Jurisdictional Compliance Matrix
+- Regulatory Mapping Report covering EU AI Act, GDPR, and national implementations across 6+ jurisdictions
+- Multi-Jurisdictional Compliance Matrix integrated into client engagements
 - Model Contractual Clauses for AI service agreements
 - AI Arbitration Readiness Protocol with evidence chain-of-custody specifications
 - White paper on observability platforms for AI dispute resolution
@@ -82,14 +82,18 @@ I'm currently completing a capstone internship at IntegrityStudio.ai, developing
 
 ## Career Vision
 
-I want to build a career at the intersection of international dispute resolution and AI governance. My target paths include roles at arbitral institutions like the **ICC**, **LCIA**, or **SCC**, policy organizations such as the **European Commission's AI Office** or **IAPS**, and AI companies with dedicated governance functions like **OpenAI** or **Jus Mundi**.
+I'm building a career at the intersection of international dispute resolution and AI governance. Target paths include:
+
+- **Arbitral institutions:** ICC, LCIA, SCC
+- **Policy organizations:** European Commission AI Office, IAPS
+- **AI companies:** Governance-focused roles at OpenAI, Jus Mundi, or similar
 
 Whether advising companies on compliance, helping arbitral institutions adapt to technological change, or contributing to policy development, I see legal expertise as essential to ensuring AI benefits society broadly.
 
 ## Connect
 
-I'm always interested in discussing AI governance, international arbitration, or collaboration opportunities.
+Open to discussions on AI governance, international arbitration, or collaboration opportunities—particularly roles bridging legal expertise and AI compliance.
 
 - **Email:** [isa@integritystudio.ai](mailto:isa@integritystudio.ai)
-- **LinkedIn:** [linkedin.com/in/isabelbudenz](https://linkedin.com/in/isabelbudenz)
+- **LinkedIn:** [linkedin.com/in/isabel-budenz](https://www.linkedin.com/in/isabel-budenz-005017240)
 - **Location:** Stockholm, Sweden | Austin, TX
