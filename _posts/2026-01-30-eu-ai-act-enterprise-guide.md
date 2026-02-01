@@ -13,11 +13,13 @@ toc_sticky: true
 header:
   overlay_color: "#1a1a2e"
   overlay_filter: "0.5"
+  og_image: /assets/images/posts/eu-ai-act-enterprise-guide.png
+canonical_url: "https://integritystudio.ai/blog/eu-ai-act-enterprise-guide"
 ---
 
 Your AI system just made a decision that affected a customer. Can you explain why? Can you prove it was fair? If regulators ask tomorrow, do you have the logs to show them?
 
-These aren't hypothetical questions anymore. The European Union's AI Act—the world's first comprehensive AI law—is now in full enforcement mode. For enterprises deploying AI systems, particularly those using large language models (LLMs) in production, this regulation represents both a compliance challenge and an opportunity to build more trustworthy AI infrastructure.
+These aren't hypothetical questions anymore. The [European Union's AI Act](https://artificialintelligenceact.eu){:target="_blank" rel="noopener"}—the world's first comprehensive AI law—is now in full enforcement mode. For enterprises deploying AI systems, particularly those using large language models (LLMs) in production, this regulation represents both a compliance challenge and an opportunity to build more trustworthy AI infrastructure.
 
 If your organization serves European customers, processes data from EU residents, or operates within EU member states, the AI Act applies to you. Here's what you need to understand.
 
@@ -43,26 +45,26 @@ With the phased rollout now well underway (prohibitions since February 2025, hig
 
 Several core requirements of the AI Act directly intersect with AI observability capabilities:
 
-### Logging and Record-Keeping (Article 12)
+### Logging and Record-Keeping ([Article 12](https://artificialintelligenceact.eu/article/12/){:target="_blank" rel="noopener"})
 
 High-risk AI systems must maintain logs that enable traceability throughout the system's lifecycle. This means capturing inputs, outputs, and the operational context of AI decisions in a way that supports after-the-fact analysis. For LLM-based systems, this translates to:
 - Comprehensive prompt and response logging
 - Token-level tracking
 - The ability to reconstruct the context that led to any given output
 
-### Risk Management Systems (Article 9)
+### Risk Management Systems ([Article 9](https://artificialintelligenceact.eu/article/9/){:target="_blank" rel="noopener"})
 
 Operators of high-risk AI must establish continuous risk management processes. This requires ongoing monitoring for performance degradation, bias emergence, and unexpected behaviors—capabilities that depend on robust observability infrastructure. You cannot manage risks you cannot see.
 
-### Accuracy, Robustness, and Cybersecurity (Article 15)
+### Accuracy, Robustness, and Cybersecurity ([Article 15](https://artificialintelligenceact.eu/article/15/){:target="_blank" rel="noopener"})
 
 AI systems must achieve appropriate levels of accuracy and resilience throughout their lifecycle. Demonstrating compliance requires metrics, benchmarks, and the ability to detect when systems deviate from expected performance. Real-time monitoring and anomaly detection become compliance necessities, not optional enhancements.
 
-### Human Oversight (Article 14)
+### Human Oversight ([Article 14](https://artificialintelligenceact.eu/article/14/){:target="_blank" rel="noopener"})
 
 High-risk systems must be designed for effective human oversight, including the ability for humans to interpret outputs and intervene when necessary. This demands transparency into model behavior, clear audit trails, and interfaces that surface actionable information to human operators.
 
-### Transparency and Information to Users (Article 13)
+### Transparency and Information to Users ([Article 13](https://artificialintelligenceact.eu/article/13/){:target="_blank" rel="noopener"})
 
 Deployers must provide clear information about AI system capabilities and limitations. This requires understanding your systems well enough to document their behavior accurately—something only achievable through systematic observation and measurement.
 
@@ -86,7 +88,7 @@ Regulators will expect you to produce detailed records on request. Invest in too
 
 **5. Integrate PII detection and data governance**
 
-The AI Act intersects with GDPR. Ensure your AI observability stack identifies personal data in prompts and outputs, enabling appropriate handling and demonstrating data protection compliance.
+The AI Act intersects with [GDPR](https://gdpr.eu){:target="_blank" rel="noopener"}. Ensure your AI observability stack identifies personal data in prompts and outputs, enabling appropriate handling and demonstrating data protection compliance.
 
 **6. Plan for human-in-the-loop workflows**
 
@@ -96,7 +98,7 @@ Determine where human oversight is required and build the interfaces and process
 
 Organizations that treat AI Act compliance as merely a legal burden will miss a significant opportunity. The capabilities required for compliance—comprehensive monitoring, transparent operations, systematic risk management—are the same capabilities that distinguish mature, trustworthy AI operations from experimental deployments.
 
-Enterprises that invest in AI observability now will find themselves better positioned not only for EU compliance but also for the regulatory frameworks emerging in the UK, Canada, and elsewhere. More fundamentally, they'll operate AI systems they actually understand and can confidently defend to customers, boards, and regulators.
+Enterprises that invest in AI observability now will find themselves better positioned not only for EU compliance but also for the regulatory frameworks emerging in the [UK](https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach){:target="_blank" rel="noopener"}, [Canada](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act){:target="_blank" rel="noopener"}, and elsewhere. More fundamentally, they'll operate AI systems they actually understand and can confidently defend to customers, boards, and regulators.
 
 The AI Act codifies principles that responsible AI practitioners have long advocated: know what your systems do, document how they work, monitor their behavior, and maintain meaningful human oversight. These aren't bureaucratic requirements invented by regulators—they're engineering best practices elevated to legal obligations.
 
