@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About Isabel Budenz | AI Governance & International Arbitration"
+title: "AI Governance & International Arbitration"
 excerpt: "Isabel Budenz combines EU AI Act expertise with international arbitration knowledge. AI Governance Research Intern at IntegrityStudio, LLM candidate at Stockholm University, quadrilingual legal analyst specializing in cross-border compliance."
 permalink: /about/
 author_profile: true
