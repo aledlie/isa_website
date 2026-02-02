@@ -139,10 +139,11 @@ author:
   location: Stockholm | Austin, TX
   email: isa@integritystudio.ai
   github: aledlie
+  linkedin: "https://www.linkedin.com/in/isabel-budenz-005017240"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/isabelbudenz"
+      url: "https://www.linkedin.com/in/isabel-budenz-005017240"
     - label: "IntegrityStudio"
       icon: "fas fa-fw fa-shield-alt"
       url: "https://integritystudio.ai"
