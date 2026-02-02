@@ -15,6 +15,8 @@ tags:
   - international arbitration
   - algorithmic accountability
   - GDPR
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 The intersection of law and AI presents numerous opportunities for impactful project work.

@@ -9,6 +9,8 @@ toc_label: "Report Sections"
 toc_sticky: true
 categories: [reports]
 tags: [telemetry, opentelemetry, session-log, documentation]
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 This report documents the telemetry data collected during a Claude Code session focused on planning Isabel Budenz's Technical & International Arbitration Track capstone internship at IntegrityStudio.ai.

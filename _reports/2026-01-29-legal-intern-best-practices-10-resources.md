@@ -14,6 +14,8 @@ tags:
   - regulatory frameworks
   - fellowships
   - professional development
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 A curated collection of resources for legal professionals entering the AI industry.

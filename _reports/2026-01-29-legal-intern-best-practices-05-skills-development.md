@@ -14,6 +14,8 @@ tags:
   - technical fluency
   - hybrid roles
   - legal tech
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 Legal professionals entering the tech industry need to develop specific competencies that bridge legal expertise and technical understanding.

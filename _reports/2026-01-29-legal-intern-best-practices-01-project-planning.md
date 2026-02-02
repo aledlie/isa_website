@@ -14,6 +14,8 @@ tags:
   - tech industry
   - project management
   - career development
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 Effective capstone projects share several characteristics that maximize both learning outcomes and organizational value.

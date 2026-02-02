@@ -14,6 +14,8 @@ tags:
   - compliance
   - policy
   - internships
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 Legal professionals bring unique capabilities to AI companies across multiple domains.

@@ -14,6 +14,8 @@ tags:
   - competencies
   - success metrics
   - rubrics
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 Structured evaluation criteria ensure fair assessment and clear expectations for intern performance.

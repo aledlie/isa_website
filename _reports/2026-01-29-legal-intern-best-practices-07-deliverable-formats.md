@@ -14,6 +14,8 @@ tags:
   - legal writing
   - presentations
   - professional development
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 Effective deliverables showcase both legal expertise and the ability to work across disciplines.

@@ -15,6 +15,8 @@ tags:
   - international arbitration
   - data privacy
   - policy
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 Detailed project ideas organized by focus area, with scope, deliverables, duration, and skills developed for each.

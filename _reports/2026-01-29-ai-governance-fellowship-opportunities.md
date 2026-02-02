@@ -9,6 +9,8 @@ toc_label: "Opportunities"
 toc_sticky: true
 categories: [reports]
 tags: [fellowships, internships, ai-governance, career]
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 A curated list of fellowship and internship opportunities for legal professionals interested in AI governance, policy, and compliance. Programs are organized by type and include details on duration, compensation, and focus areas.

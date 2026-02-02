@@ -14,6 +14,8 @@ tags:
   - program design
   - internship management
   - professional development
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 Effective project scoping and mentorship are critical to intern success and project outcomes.

@@ -9,6 +9,8 @@ toc_label: "Report Sections"
 toc_sticky: true
 categories: [reports]
 tags: [content-audit, ai-assisted, documentation]
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 This report documents the content audit and improvements made to `_work/how-this-site-works.md` during a Claude Code session on January 29, 2025.

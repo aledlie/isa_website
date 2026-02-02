@@ -14,6 +14,8 @@ tags:
   - policy research
   - legal tech
   - case studies
+header:
+  image: /assets/images/cover-reports.png
 ---
 
 Understanding what successful legal-tech intern projects look like helps inform project design and expectations.
