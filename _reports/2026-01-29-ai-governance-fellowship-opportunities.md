@@ -38,7 +38,7 @@ A curated list of fellowship and internship opportunities for legal professional
 
 | Program | Organization | Focus | Notes |
 |---------|--------------|-------|-------|
-| [Jus Mundi](https://jusmundi.com/en/careers) | Jus Mundi | Legal intelligence, international arbitration | Partnered with Dubai IAC on AI case management |
+| [Jus Mundi](https://www.welcometothejungle.com/en/companies/jus-mundi/jobs) | Jus Mundi | Legal intelligence, international arbitration | Partnered with Dubai IAC on AI case management |
 | Legal Tech Internships | Various | AI applications in legal practice | Check individual company career pages |
 
 ## Application Timeline Guide
