@@ -35,8 +35,6 @@ This report documents the content audit and improvements made to `_work/how-this
 - Actionable takeaways
 - Completeness
 
-Agent definition: `~/.claude/plugins/marketplaces/claude-code-marketplace/plugins/content-creator/agents/content-creator.md`
-
 ---
 
 ## Before: Original Content
